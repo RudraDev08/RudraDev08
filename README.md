@@ -24,4 +24,3 @@ Hey there! 👋 I'm **Rudra**, a passionate **Full-Stack Developer** who loves c
   <img src="https://github-profile-trophy.vercel.app/?username=RudraDev08&theme=radical&no-frame=true&margin-w=15&column=7" />
 </p>
 
-![GitHub Star](https://img.shields.io/badge/GitHub%20Star-2023-FE7A16?style=for-the-badge&logo=github&logoColor=white)
