@@ -14,3 +14,8 @@
 
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RudraDev08&show_icons=true&theme=radical" width="50%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RudraDev08&theme=radical" width="50%" /> </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RudraDev08&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RudraDev08&theme=radical" width="45%" />
+</p>
