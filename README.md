@@ -13,14 +13,3 @@ Hey there! 👋 I'm **Rudra**, a passionate **Full-Stack Developer** who loves c
 🌟 **Always exploring new technologies and working on exciting projects!**  
 
 
-📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RudraDev08&show_icons=true&theme=radical" width="60%" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RudraDev08&theme=radical" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RudraDev08&theme=radical&no-frame=true&margin-w=15&column=7" />
-</p>
-
