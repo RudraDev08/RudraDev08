@@ -9,7 +9,7 @@ Hey there! 👋 I'm **Rudra**, a passionate **Full-Stack Developer** who loves c
 💡 **Tech Stack:** JavaScript, React, Node.js, Express, MongoDB  
 💬 **Ask Me About:** Web development, APIs, state management, and performance optimization  
 ⚡ **Fun Fact:** I enjoy **turning ideas into real-world applications from scratch!**  
-📩 **Reach Me At:** [rudra@example.com](mailto:rudra@example.com)  
+📩 **Reach Me At:** [patelrudra808@example.com](mailto:patelrudra808@example.com)  
 🌟 **Always exploring new technologies and working on exciting projects!**  
 
 
