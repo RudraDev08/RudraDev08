@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://source.unsplash.com/1600x900/?technology,coding](https://i.pinimg.com/736x/dc/f0/7b/dcf07b250a0c649b6d1bb17266f7d85c.jpg)" alt="Cool Background" width="100%" />
+  <img src="https://i.pinimg.com/736x/dc/f0/7b/dcf07b250a0c649b6d1bb17266f7d85c.jpg" alt="Cool Background" width="100%" />
 </p>
 
 ---
