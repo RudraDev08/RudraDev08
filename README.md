@@ -3,7 +3,7 @@
 🚀 About Me
 Hey there! 👋 I'm Rudra, a passionate Full-Stack Developer dedicated to building scalable and high-performance web applications. I thrive on transforming innovative ideas into real-world solutions.
 
-🔨 Currently Building: Full-stack applications with the MERN stack
+##🔨 Currently Building: Full-stack applications with the MERN stack
 🌱 Learning: Figma for enhanced UI/UX design
 💡 Tech Stack: JavaScript, React, Node.js, Express, MongoDB
 💬 Ask Me About: Web development, APIs, state management, and performance optimization
@@ -14,6 +14,5 @@ Hey there! 👋 I'm Rudra, a passionate Full-Stack Developer dedicated to buildi
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rudra&show_icons=true&theme=radical" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra&theme=radical" alt="GitHub Streak" /> </p>
 📫 Contact Me
 📩 Email: patelrudra808@example.com
-🔗 LinkedIn: linkedin.com/in/rudra
 
 🚀 Always exploring new technologies and working on exciting projects!
