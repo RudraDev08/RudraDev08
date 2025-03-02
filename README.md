@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Rudra+%F0%9F%91%8B;Full-Stack+Developer;Passionate+about+Tech+%F0%9F%94%8C;Always+learning+new+things+%F0%9F%92%BB" />
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/dc/f0/7b/dcf07b250a0c649b6d1bb17266f7d85c.jpg" alt="Cool Background" width="100%" />
-</p>
-
 ---
 
 ## 🚀 About Me
