@@ -31,14 +31,6 @@ Hey there! 👋 I'm **Rudra**, a passionate **Full-Stack Developer** dedicated t
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudra&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 ## 📫 Contact Me
 
 - 📩 **Email:** patelrudra808@example.com
