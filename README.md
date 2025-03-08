@@ -34,7 +34,6 @@ Hey there! 👋 I'm **Rudra**, a passionate **Full-Stack Developer** dedicated t
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX-007ACC?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 
