@@ -1,4 +1,4 @@
-# ✨ Rudra's GitHub Profile  
+   # ✨ Rudra's GitHub Profile  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Rudra+%F0%9F%91%8B;Full-Stack+Developer;Passionate+about+Tech+%F0%9F%94%8C;Always+learning+new+things+%F0%9F%92%BB" />
@@ -43,22 +43,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
-</p>  
-
 ---
-
-## 📫 Contact Me  
-
-<p align="center">
-  📩 **Email:** [patelrudra808@example.com](mailto:patelrudra808@example.com)  
-  <br>
-  💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-  <br>
-  🚀 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)  
-</p>  
 
 <p align="center">
   🔗 <strong>Let's connect and build something amazing together! 🚀</strong>
