@@ -1,24 +1,27 @@
-## ✨ Rudra's GitHub Profile
+# ✨ Rudra's GitHub Profile  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Rudra+%F0%9F%91%8B;Full-Stack+Developer;Passionate+about+Tech+%F0%9F%94%8C;Always+learning+new+things+%F0%9F%92%BB" />
-</p>
+</p>  
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-Hey there! 👋 I'm **Rudra**, a passionate **Full-Stack Developer** dedicated to building scalable and high-performance web applications. I thrive on transforming innovative ideas into real-world solutions.
+<p align="center">
+  Hey there! 👋 I'm <strong>Rudra</strong>, a passionate <strong>Full-Stack Developer</strong> dedicated to crafting scalable and high-performance web applications.  
+  I thrive on transforming innovative ideas into real-world solutions through clean code and modern technologies.
+</p>  
 
-- 🔨 **Currently Building:** Full-stack applications with the **MERN stack**
-- 🌱 **Learning:** Figma for enhanced UI/UX design
-- 💡 **Tech Stack:** JavaScript, React, Node.js, Express, MongoDB
-- 💬 **Ask Me About:** Web development, APIs, state management, and performance optimization
-- ⚡ **Fun Fact:** I love solving real-world problems through technology
+- 🔨 **Currently Working On:** Full-stack applications with the **MERN stack**  
+- 🌱 **Learning:** Figma for enhanced UI/UX design  
+- 💡 **Tech Stack:** JavaScript, React, Node.js, Express, MongoDB  
+- 💬 **Ask Me About:** Web development, APIs, state management, and performance optimization  
+- ⚡ **Fun Fact:** I love solving real-world problems through technology  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -26,6 +29,7 @@ Hey there! 👋 I'm **Rudra**, a passionate **Full-Stack Developer** dedicated t
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -35,17 +39,29 @@ Hey there! 👋 I'm **Rudra**, a passionate **Full-Stack Developer** dedicated t
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" /> </p>
-
+</p>  
 
 ---
 
-## 📫 Contact Me
+## 📊 GitHub Stats  
 
-- 📩 **Email:** patelrudra808@example.com
-- 🚀 Always exploring new technologies and working on exciting projects!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+</p>  
+
+---
+
+## 📫 Contact Me  
+
+<p align="center">
+  📩 **Email:** [patelrudra808@example.com](mailto:patelrudra808@example.com)  
+  <br>
+  💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+  <br>
+  🚀 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)  
+</p>  
+
+<p align="center">
+  🔗 <strong>Let's connect and build something amazing together! 🚀</strong>
+</p>  
