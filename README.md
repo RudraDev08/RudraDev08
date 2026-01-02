@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00C6FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Rudra+👋;Full-Stack+Web+Developer;Building+Scalable+Web+Applications;Turning+Ideas+Into+Reality;Always+Learning+🚀" /> </p>
-🚀 About Me
-<p align="center"> I’m <strong>Rudra</strong>, a <strong>Full-Stack Web Developer</strong> passionate about building <strong>scalable, efficient, and user-centric web applications</strong>. I focus on clean architecture, strong logic, and real-world problem solving. </p>
+<!-- 🚀 About Me
+<p align="center"> I’m <strong>Rudra</strong>, a <strong>Full-Stack Web Developer</strong> passionate about building <strong>scalable, efficient, and user-centric web applications</strong>. I focus on clean architecture, strong logic, and real-world problem solving. </p> -->
 
 🧑‍💻 Role: Full-Stack Developer (MERN)
 
