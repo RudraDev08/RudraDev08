@@ -4,7 +4,7 @@
 
 ---
 
-# 👨‍💻 Rudra | Full-Stack MERN Developer 
+# 👨‍💻 Rudra | Full-Stack MERN  
 
 ## 🚀 About Me
 
