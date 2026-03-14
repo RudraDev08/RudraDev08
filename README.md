@@ -1,74 +1,74 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rudra+👋;Full-Stack+MERN+Developer;Building+Scalable+Web+Applications;Clean+Code+%7C+Smart+Architecture;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rudra+👋;Data+Science+Enthusiast;Turning+Data+Into+Insights;Machine+Learning+%7C+Analytics;Always+Learning+🚀" />
 </p>
 
 ---
 
-# 👨‍💻 Rudra | Full-Stack MERN Developer
+# 👨‍💻 Rudra | Data Science Enthusiast
 
 ## 🚀 About Me
 
-I’m a passionate **Full-Stack MERN Developer** focused on building **scalable, production-ready web applications**.
+I’m a passionate **Data Science enthusiast** focused on extracting meaningful insights from data and building intelligent systems using modern data tools and machine learning techniques.
 
-I enjoy transforming complex problems into clean, efficient, and user-friendly solutions using structured architecture and maintainable code practices.
+I enjoy transforming complex datasets into **clear insights, predictive models, and data-driven solutions** using structured analysis and clean workflows.
 
 ---
 
 ## 🧑‍💻 What I Do
 
-- 🔨 Build full-stack applications using the MERN stack  
-- ⚛️ Develop dynamic and responsive frontend interfaces with React  
-- 🖥️ Design and build RESTful APIs  
-- 🏗️ Architect scalable backend systems  
-- 🎯 Focus on performance, usability, and clean UI  
+- 📊 Analyze and interpret complex datasets  
+- 🤖 Build machine learning models  
+- 📈 Create meaningful data visualizations  
+- 🧠 Apply statistical and analytical techniques  
+- 🗂️ Work with structured and unstructured data  
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🎨 UI/UX Design with Figma  
-- ⚙️ Advanced Backend Concepts & System Design  
-- 📦 Scalable Application Architecture  
+- 🤖 Machine Learning Algorithms  
+- 📊 Data Visualization & Analytics  
+- 🧠 Deep Learning Fundamentals  
+- 📦 Data Engineering Basics  
 
 ---
 
 ## 🧠 Core Strengths
 
-- Strong JavaScript logic & problem-solving  
-- React state management (Hooks, Context API)  
-- REST API development  
-- CRUD system architecture  
-- Clean, modular, and maintainable code  
+- Strong Python programming  
+- Data analysis with Pandas & NumPy  
+- Data visualization (Matplotlib, Seaborn)  
+- Machine learning basics with Scikit-learn  
+- Problem-solving and analytical thinking  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-5A9BD5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
 
 ## 📌 Developer Philosophy
 
-> "Simplicity is the ultimate sophistication."  
-> I believe great software is built with clarity, scalability, and strong fundamentals.
+> "Without data, you're just another person with an opinion." — W. Edwards Deming  
+
+I believe powerful insights come from **clean data, clear thinking, and strong fundamentals.**
 
 ---
 
 ## 📫 Let's Connect
 
-- 💬 Ask me about React, JavaScript, APIs, and App Architecture  
-- 🚀 Open to collaboration on production-ready projects  
+- 💬 Ask me about Python, Data Analysis, Machine Learning, and Data Visualization  
+- 🚀 Open to collaboration on **data science and analytics projects**
 
 ---
 
