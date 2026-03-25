@@ -4,8 +4,7 @@
 
 ---
 
-# 👨‍💻 Rudra | Data Science Enthusiast
-
+# 
 ## 🚀 About Me
 
 I’m a passionate **Data Science enthusiast** focused on extracting meaningful insights from data and building intelligent systems using modern data tools and machine learning techniques.
